@@ -1,0 +1,23 @@
+{
+  "name": "rentals-app",
+  "version": "1.0.0",
+  "description": "Demonstrate CICD with GitHub action",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/f-oni/rentals-app.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/f-oni/rentals-app/issues"
+  },
+  "homepage": "https://github.com/f-oni/rentals-app#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
